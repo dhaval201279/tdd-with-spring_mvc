@@ -21,7 +21,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import com.ds.ppms.entity.Product;
 
 /**
- * @author e050030
+ * @author Dhaval P Shah
  * 
  */
 @RunWith(SpringJUnit4ClassRunner.class)
